@@ -6,5 +6,6 @@ public class Sys {
 		
 		//4444444444444
 		System.out.println("你好");
+		System.out.println("下来");
 	}
 }
